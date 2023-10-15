@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+
+	<!-- Parameters used by tests at runtime -->
+	<TestRunParameters>
+		<Parameter name="Env" value="prod" />
+		<Parameter name="HEADLESS" value="false" />
+		<Parameter name="Password" value="admin.123" />
+		<Parameter name="Username" valeu ="Admin" />
+	</TestRunParameters>
+
+</RunSettings>
